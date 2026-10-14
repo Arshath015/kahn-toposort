@@ -1,0 +1,3 @@
+Topological order written to /home/runner/work/kahn-toposort/kahn-toposort/examples/results/output.txt
+
+Recorded: 2026-10-14T15:03:30Z
