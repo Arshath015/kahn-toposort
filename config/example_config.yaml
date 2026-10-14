@@ -1,0 +1,8 @@
+# Example dependency configuration for the topological sorter
+# Keys are node identifiers; values are lists of nodes that must appear
+# before the key in the final order.
+A: []
+B: [A]
+C: [A]
+D: [B, C]
+E: [D]
